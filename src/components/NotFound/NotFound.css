@@ -1,0 +1,36 @@
+.body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 0;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.error-code {
+    font-size: 50px;
+    color: #e74c3c;
+}
+
+.error-message {
+    font-size: 24px;
+    color: #666;
+}
